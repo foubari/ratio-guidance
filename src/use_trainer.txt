@@ -1,0 +1,9 @@
+# From src directory
+python train.py sd_audioldm --loss_type disc --epochs 10
+python train.py sd_audioldm --loss_type dv --epochs 10  
+python train.py ddpm_night2day --loss_type kliep --epochs 5
+
+# Models saved as:
+# checkpoints/disc/sd_audioldm_disc_mi_model_best.pt
+# checkpoints/dv/sd_audioldm_dv_mi_model_best.pt
+# checkpoints/kliep/ddpm_night2day_kliep_mi_model_best.pt
