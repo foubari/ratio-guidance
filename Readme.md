@@ -1,4 +1,4 @@
-# Multimodal Density-Ratio (PMI) Guided Diffusion
+# Multimodal Density-Ratio Guided Diffusion
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Research%20Project-orange" alt="Status">
