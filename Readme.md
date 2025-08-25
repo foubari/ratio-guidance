@@ -63,6 +63,7 @@ During sampling for $x_t\mid y_t$, the guidance is:
 
 $\nabla_{x_t}\log p(x_t\mid y_t) \approx \underbrace{s_\phi(x_t,t)}_{\text{unconditional score}} + \lambda\,\nabla_{x_t}\hat{\ell}_\theta(x_t,y_t,t)$
 
+
 with an optional schedule $\lambda=\lambda(t)$ (e.g., scaled by $\sigma_t$).
 
 ## 📦 Installation
