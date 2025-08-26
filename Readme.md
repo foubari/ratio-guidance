@@ -201,18 +201,6 @@ figures/                             # Dataset visualizations
   - [ ] Multi-scale density ratios
   - [ ] Efficiency optimizations
 
-## 📝 Citation
-
-If you use this code or find our work helpful, please cite:
-
-```bibtex
-@inprogress{mm_guidance_2025,
-  title   = {Mutual-Information Guided Sampling for Multimodal Diffusion},
-  author  = {Oubari, Fouad and Collaborators},
-  year    = {2025},
-  note    = {Work in progress}
-}
-```
 
 ## 🤝 Contributing
 
